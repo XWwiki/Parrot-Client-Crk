@@ -3,9 +3,12 @@
 ## Parrot Cracked By Deepseek v4.1 Flash
 
 ![image](https://github.com/XWwiki/Parrot-Client-Crk/blob/f002484bec28046daeec432c9b43f331d35bb2a5/QQ20261118-132111.png)
+
 仅9.86M tokens。半小时完成破解。
 ~~其实就是闲的没事用ai破解个客户端~~
 完全破解，点击即玩。
+
+![image](https://github.com/XWwiki/Parrot-Client-Crk/blob/fb2dab33ee5a54eaeeec181fa4424ef7cbba5f4d/QQ20261118-132057.png)
 
 But only 9.86M tokens。
 
